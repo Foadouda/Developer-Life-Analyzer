@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Logs
+*.log
+# Streamlit
+.streamlit/
+
