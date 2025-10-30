@@ -2,13 +2,13 @@
 
 **Interactive Dashboard for Developer Productivity Analysis**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-deployed-app-url.streamlit.app)
+[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-deployed-app-url.streamlit.app](https://developer-life-analyzer-jmmtvajs9bucgbh54pjx24.streamlit.app))
 
 > Ever wondered if AI actually makes you a better developer, or just a more caffeinated one? This interactive dashboard analyzes 500 real developer work days to answer that question and much more.
 
 ## Live Demo
 
-**[Try the Interactive Dashboard](https://your-deployed-app-url.streamlit.app)**
+**[Try the Interactive Dashboard]([https://your-deployed-app-url.streamlit.app](https://developer-life-analyzer-jmmtvajs9bucgbh54pjx24.streamlit.app))**
 
 ## What You'll Discover
 
