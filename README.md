@@ -39,8 +39,8 @@
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-developer-productivity.git
-cd ai-developer-productivity
+git clone https://github.com/Foadouda/Developer-Life-Analyzer.git
+cd Developer-Life-Analyzer
 
 # Install dependencies
 pip install -r streamlit_requirements.txt
