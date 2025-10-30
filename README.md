@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-**[Try the Interactive Dashboard]([https://your-deployed-app-url.streamlit.app](https://developer-life-analyzer-jmmtvajs9bucgbh54pjx24.streamlit.app))**
+**[Try the Interactive Dashboard]([https://developer-life-analyzer-jmmtvajs9bucgbh54pjx24.streamlit.app/])**
 
 ## What You'll Discover
 
